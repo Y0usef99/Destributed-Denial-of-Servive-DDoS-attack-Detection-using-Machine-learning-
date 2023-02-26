@@ -24,6 +24,7 @@ reflection based attacks, and all the “exploitation based” attacks which are
 refilling incomplete data and deleting inconsistent, redundant, or noisy data. Several procedures 
 are done on the data to minimize dimensionality and preserve consistency for simplicity of 
 processing. The mentioned stages below were engaged in the data pre-processing stage.
+
 • Managing Null Values
 • Handling Categorical Data
 • Calculating the Standard Deviation
